@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chatfire/static/css/main.4daad71d.chunk.css",
+    "main.js": "/chatfire/static/js/main.b4cc7744.chunk.js",
+    "main.js.map": "/chatfire/static/js/main.b4cc7744.chunk.js.map",
+    "runtime-main.js": "/chatfire/static/js/runtime-main.2dcd16e0.js",
+    "runtime-main.js.map": "/chatfire/static/js/runtime-main.2dcd16e0.js.map",
+    "static/js/2.ae8d8969.chunk.js": "/chatfire/static/js/2.ae8d8969.chunk.js",
+    "static/js/2.ae8d8969.chunk.js.map": "/chatfire/static/js/2.ae8d8969.chunk.js.map",
+    "static/js/3.c12d87c4.chunk.js": "/chatfire/static/js/3.c12d87c4.chunk.js",
+    "static/js/3.c12d87c4.chunk.js.map": "/chatfire/static/js/3.c12d87c4.chunk.js.map",
+    "index.html": "/chatfire/index.html",
+    "static/css/main.4daad71d.chunk.css.map": "/chatfire/static/css/main.4daad71d.chunk.css.map",
+    "static/js/2.ae8d8969.chunk.js.LICENSE.txt": "/chatfire/static/js/2.ae8d8969.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dcd16e0.js",
+    "static/js/2.ae8d8969.chunk.js",
+    "static/css/main.4daad71d.chunk.css",
+    "static/js/main.b4cc7744.chunk.js"
+  ]
+}
